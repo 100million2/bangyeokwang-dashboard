@@ -7,27 +7,120 @@
     "meaningful_comment": 2,
     "intro_post": 0,
     "owner_excluded": "인간",
-    "tie_break": ["유의미 댓글 수", "일반 게시글 수", "활동일 수"]
+    "tie_break": [
+      "유의미 댓글 수",
+      "일반 게시글 수",
+      "활동일 수"
+    ]
   },
   "rankings": [
-    {"rank":1,"name":"동태탕","score":443,"posts":3,"meaningful_comments":214,"total_comments":229,"gap_to_3rd":0},
-    {"rank":2,"name":"임당","score":139,"posts":9,"meaningful_comments":47,"total_comments":51,"gap_to_3rd":0},
-    {"rank":3,"name":"옆집옥수수차","score":105,"posts":5,"meaningful_comments":40,"total_comments":57,"gap_to_3rd":0},
-    {"rank":4,"name":"하얀의자","score":84,"posts":4,"meaningful_comments":32,"total_comments":42,"gap_to_3rd":21},
-    {"rank":5,"name":"onesome","score":82,"posts":0,"meaningful_comments":41,"total_comments":50,"gap_to_3rd":23},
-    {"rank":6,"name":"엘무드","score":70,"posts":2,"meaningful_comments":30,"total_comments":32,"gap_to_3rd":35},
-    {"rank":7,"name":"크라클락","score":66,"posts":0,"meaningful_comments":33,"total_comments":33,"gap_to_3rd":39},
-    {"rank":8,"name":"아톰아톰","score":52,"posts":0,"meaningful_comments":26,"total_comments":36,"gap_to_3rd":53},
-    {"rank":9,"name":"으니","score":40,"posts":2,"meaningful_comments":15,"total_comments":19,"gap_to_3rd":65},
-    {"rank":10,"name":"송중동송중","score":29,"posts":3,"meaningful_comments":7,"total_comments":9,"gap_to_3rd":76}
+    {
+      "rank": 1,
+      "name": "동태탕",
+      "score": 451,
+      "posts": 3,
+      "meaningful_comments": 218,
+      "total_comments": 224,
+      "gap_to_3rd": 0
+    },
+    {
+      "rank": 2,
+      "name": "임당",
+      "score": 143,
+      "posts": 9,
+      "meaningful_comments": 49,
+      "total_comments": 51,
+      "gap_to_3rd": 0
+    },
+    {
+      "rank": 3,
+      "name": "옆집옥수수차",
+      "score": 121,
+      "posts": 5,
+      "meaningful_comments": 48,
+      "total_comments": 57,
+      "gap_to_3rd": 0
+    },
+    {
+      "rank": 4,
+      "name": "하얀의자",
+      "score": 86,
+      "posts": 4,
+      "meaningful_comments": 33,
+      "total_comments": 38,
+      "gap_to_3rd": 35
+    },
+    {
+      "rank": 5,
+      "name": "onesome",
+      "score": 74,
+      "posts": 0,
+      "meaningful_comments": 37,
+      "total_comments": 40,
+      "gap_to_3rd": 47
+    },
+    {
+      "rank": 6,
+      "name": "엘무드",
+      "score": 68,
+      "posts": 2,
+      "meaningful_comments": 29,
+      "total_comments": 32,
+      "gap_to_3rd": 53
+    },
+    {
+      "rank": 7,
+      "name": "크라클락",
+      "score": 66,
+      "posts": 0,
+      "meaningful_comments": 33,
+      "total_comments": 33,
+      "gap_to_3rd": 55
+    },
+    {
+      "rank": 8,
+      "name": "아톰아톰",
+      "score": 62,
+      "posts": 0,
+      "meaningful_comments": 31,
+      "total_comments": 36,
+      "gap_to_3rd": 59
+    },
+    {
+      "rank": 9,
+      "name": "으니",
+      "score": 38,
+      "posts": 2,
+      "meaningful_comments": 14,
+      "total_comments": 19,
+      "gap_to_3rd": 83
+    },
+    {
+      "rank": 10,
+      "name": "당근우웩",
+      "score": 28,
+      "posts": 2,
+      "meaningful_comments": 9,
+      "total_comments": 12,
+      "gap_to_3rd": 93
+    }
   ],
   "previous_month": {
     "month": "2026-08",
     "label": "2026년 8월",
     "top3": [
-      {"rank":1,"name":"동태탕"},
-      {"rank":2,"name":"옆집옥수수차"},
-      {"rank":3,"name":"onesome"}
+      {
+        "rank": 1,
+        "name": "동태탕"
+      },
+      {
+        "rank": 2,
+        "name": "옆집옥수수차"
+      },
+      {
+        "rank": 3,
+        "name": "onesome"
+      }
     ]
   }
 }
