@@ -35,4 +35,3 @@
 - `index.html`: 대시보드 UI
 - `data/latest.json`: 현재 대시보드가 읽는 최신 월 데이터
 - `data/YYYY-MM.json`: 월별 아카이브
-- `tools/bakwiaen_monthly_exporter.js`: 전월 자동 인식 수집기
